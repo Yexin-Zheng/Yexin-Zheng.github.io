@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on 叶昕的博客</title>
-    <link>https://example.org/categories/</link>
-    <description>Recent content in Categories on 叶昕的博客</description>
+    <title>Categories on test</title>
+    <link>https://yexin-zheng.github.io/categories/</link>
+    <description>Recent content in Categories on test</description>
     <generator>Hugo -- 0.130.0</generator>
     <language>zh-CN</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yexin-zheng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

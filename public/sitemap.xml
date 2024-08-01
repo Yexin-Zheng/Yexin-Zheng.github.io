@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2024-08-02T03:05:33+08:00</lastmod>
+    <loc>https://yexin-zheng.github.io/posts/</loc>
+    <lastmod>2024-08-02T04:14:01+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-08-02T03:05:33+08:00</lastmod>
+    <loc>https://yexin-zheng.github.io/</loc>
+    <lastmod>2024-08-02T04:14:01+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://yexin-zheng.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://yexin-zheng.github.io/tags/</loc>
   </url>
 </urlset>
